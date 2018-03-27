@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/bin/Debug/netcoreapp2.0/Calling Card.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/bin/Debug/netcoreapp2.0/Calling Card.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/bin/Debug/netcoreapp2.0/Calling Card.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/bin/Debug/netcoreapp2.0/Calling Card.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/bin/Debug/netcoreapp2.0/Calling Card.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/obj/Debug/netcoreapp2.0/Calling Card.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/obj/Debug/netcoreapp2.0/Calling Card.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/obj/Debug/netcoreapp2.0/Calling Card.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/obj/Debug/netcoreapp2.0/Calling Card.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Calling Card/obj/Debug/netcoreapp2.0/Calling Card.pdb
